@@ -9,8 +9,9 @@ img {
 
 .item{
   width: 200px;
-  font-size: 36px;
-  font-weight: 900;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
 }
 
 .title{
@@ -18,7 +19,6 @@ img {
   margin-bottom: 32px;
   font-size: 36px;
   font-weight: 900;
-  text-align: center
 }
 
 .container {
